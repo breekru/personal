@@ -1,8 +1,4 @@
-<?php
 
-require('config.php');
-
-?>
 
 
 
