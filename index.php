@@ -34,8 +34,7 @@ require('config.php');
 <body>
 <h1>Brett's Exercise Challenge</h1>
 <div class="stats">
-<?php
-$sql
+test
 </div>
 
 
